@@ -31,29 +31,29 @@
  ISH_socialist_party:0 "VKP(b)"
  ISH_socialist_party_long:0 "전연방공산당(볼셰비키)"
  ISH_social_democrat_party:0 "RNP"
- ISH_social_democrat_party_long:0 "Rossiyskaya Narodnaya Partiya"
+ ISH_social_democrat_party_long:0 "러시아 인민당"
  ISH_social_liberal_party:0 "PSD"
- ISH_social_liberal_party_long:0 "Partiya Sibirskoy Demokratii"
+ ISH_social_liberal_party_long:0 "시베리아 민주당"
  ISH_social_conservative_party:0 "PSR"
- ISH_social_conservative_party_long:0 "Partiya Sotsial'noy Reformy"
+ ISH_social_conservative_party_long:0 "사회개혁당"
  ISH_authoritarian_democrat_party:0 "UKGS"
  ISH_authoritarian_democrat_party_long:0 "Uralskiy Komitet Gosudarstvennogo Spaseniya"
- ISH_despotism_party:0 "Chernaya Liga"
- ISH_despotism_party_long:0 "Chernaya Liga"
+ ISH_despotism_party:0 "흑색연합"
+ ISH_despotism_party_long:0 "흑색연합"
  ISH_fascism_party:0 "RFP"
- ISH_fascism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ ISH_fascism_party_long:0 "러시아 파시스트당"
  ISH_national_socialism_party:0 "RFP"
- ISH_national_socialism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
- ISH_ultranational_socialism_party:0 "Chernaya Liga"
- ISH_ultranational_socialism_party_long:0 "Chernaya Liga"
+ ISH_national_socialism_party_long:0 "러시아 파시스트당"
+ ISH_ultranational_socialism_party:0 "흑색연합"
+ ISH_ultranational_socialism_party_long:0 "흑색연합"
  
  ### Leader Bios ###
- POLITICS_LAZAR_KAGANOVICH_DESC:0 "Many thought that, when Bukharin's Soviet Union collapsed, it would be almost impossible for one of his arch enemies to gain so much power as to become one of the most powerful leaders in Russia. However, Lazar Moiseyevich Kaganovich would prove them wrong. An ardent supporter of Joseph Stalin, he opposed Bukharin's policies and was sent to West Siberia, in what would normally be an irrelevant position. When he found himself far from the frontlines of the war, though, he would accumulate power, enough to form one of the largest nations in Russia before the West Russian War.\n\nWith the loyalty of Field Marshal Konstantin Rokossovsky and Lieutenant-General Dmitry Karbyshev, as well as the support of the 3rd and 10th Armies, Lazar Kaganovich would declare the formation of the Western Siberian People's Republic, which would stretch from the Urals to the city of Omsk. Unfortunately for him, the Republic was not meant to last long. A combination of the intense Luftwaffe bombings and his two former allies distancing themselves from him would eventually lead to its collapse. In the place of the short-lived nation born from the ashes of the USSR, Rokossovsky's army would gather in the west, and Karbyshev's Black League would gather in the east, and Kaganovich had no choice but to retreat to the city of Tyumen and exercise his control over the remnants of Western Siberia.\n\nNow, Kaganovich has to lead a rump state, a relic of the times of Russia in the Interbellum, through these turbulent times. He may be surrounded by enemies from both within and without his fiefdom, but his revolutionary will remains unbreakable. A hardline Old Bolshevik, Kaganovich will not stray from any means to eliminate the enemies of the state and embody the all-embracing proletarian state as the Great Teacher Lenin and his greatest disciple, Comrade Stalin, envisioned it since the glorious days of the Red October."
+ POLITICS_LAZAR_KAGANOVICH_DESC:0 "부하린의 소련이 붕괴하였을 때, 많은 이들은 그의 정적 중 하나가 러시아에서 가장 강력한 지도자 중 한 사람이 될 정도로 강력한 권력을 쥐는 것은 불가능하리라 생각했다. 하지만, 라자리 모이세예비치 카가노비치는 그들이 틀렸다는 것을 증명해냈다. 이오시프 스탈린의 열렬한 지지자였던 그는 부하린의 정책에 반대했고, 결국 권력과는 멀리 떨어진 서시베리아로 보내졌다. 하지만 세계대전이 발발했을 때, 자신이 최전선에서 멀리 떨어졌음을 깨달은 카가노비치는 조용히 권력을 축적해나갔고, 이는 그가 서러시아 전쟁 이전 러시아에서 가장 강력한 국가를 형성할 수 있게 했다.\n\n제3군단, 제10군단의 지원과 육군원수 콘스탄틴 로코솝스키, 드미트리 카르비세프 중장의 충성심을 기반으로 카가노비치는서시베리아 인민 공화국이 건국되었음을 선포했다. 그러나 불행하게도, 공화국은 그리 오래 지속할 운명이 아니었다. 맹렬한 루프트바페의 폭격과 카가노비치와 거리를 두기 시작한 두 동맹의 합작은 결국 국가의 붕괴로 이어졌다. 구소련의 잿더미에서 탄생한 단명 국가는 서쪽에 주둔한 로코솝스키의 군대와 동쪽에 주둔한 카르비셰프의 흑색연합에 의해 분열되었고, 카가노비치는 튜멘으로 후퇴하여 서시베리아의 잔재에 대한 지배권을 행사했다.\n\n이제, 카가노비치는 이 격동의 시대를 헤쳐나가며 러시아 시대의 산물인 이 나라를 이끌어야 한다. 비록 그가 안팎의 적들에게 둘러싸여 있을지는 몰라도, 그의 혁명정신은 여전히 깨지지 않았다. 강경적인 옛 볼셰비키 당원, 카가노비치는 위대한 스승인 레닌 동지와 그의 가장 위대한 제자인 스탈린 동지가 붉은 10월의 영광스러웠던 날 이후 상상했던 것처럼, 조국의 적을 제거하고 프롤레타리아 독재정을 구현하기 위해 어떤 수단도 마다하지 않을 것이다.
 
  POLITICS_BORIS_SHCHERBINA_DESC:0 "It is no wonder Boris Yevdokimovich Shcherbina was selected as the administrator of Tyumen when one looks at his record. After arriving in West Siberia as a young yet ambitious party official, he soon found himself stranded as the government in Moscow fell. He was shielded from the chaos by Lazar Kaganovich, who saw his skills, and by the time of the Zlatoust invasion had long made him his chief economic advisor.\n\nHowever, his lack of loyalty to the authoritarian system Kaganovich admired so much was made clear as soon as the well-armed forces of Dragunov marched eastwards. Abandoning his former beliefs and lusting for power, Shcherbina came to a secret agreement with the merchants of death. The Ural Republic could use like him in governing the lawless lands, and for that he would be appointed governor of Tyumen. His talent soon became clear as day, and now Shcherbina wishes to make his territory a model province, even under the watchful eye of Zlatoust."
 
  ### Leader Traits ###
- man_of_steel:0 "Man of Steel"
+ man_of_steel:0 "강철의 사나이"
  
  ### Ministers ###
  #Kaganovich cabinet
@@ -64,7 +64,7 @@
  #Post-Zlatoust cabinet
  ISH_Ivan_Fedyuninsky_hog:0 "이반 페디닌스키"
  ISH_Yelena_Karbysheva_for:0 "엘레나 카르비셰바"
- ISH_Ernest_Voznesensky_eco:0 "Ernest Voznesensky"
+ ISH_Ernest_Voznesensky_eco:0 "에르네스트 보즈네센스키"
  ISH_Artyom_Sergeyev_sec:0 "아트욤 세르게예프"
  
  ### Decisions ###
@@ -701,7 +701,7 @@
  ISH_and_only_what_they_need_to_know:0 "또 그들이 알아야만 하는 것들이 있을뿐"
  ISH_a_job_left_unfinished:0 "방치된 미완성 작업"
  ISH_new_talented_officers:0 "새 능력있는 공무원들"
- ISH_man_of_steel:0 "강철의 인간"
+ ISH_man_of_steel:0 "강철의 사나이"
 
  ISH_on_the_right_track_desc:0 "The Soviet Union is well on track to its restoration. Almost half of the motherland has been taken back, be it from the fascists, the pretenders, or the warlords. However, now that a secure power base has been established in Central Russia, the process of warring must take a temporary reprieve. Comrade Kaganovich understands that, if the state is to expand into the rest of Russia, it will need a strong industrial sector, a well-organized military, and a political system free of internal threats.\n\nThus, all three must be accomplished. Engineers and industrialists will begin the rapid construction of a new heavy industry sector that will provide tanks, rifles, and artillery pieces that will be needed for further expansion. The military will be expanded, and allowed to retrain and reorganize following the grueling campaigns to unite Western Siberia. Finally, certain political elements will be... removed, in order to prevent the rise of internal threats or opposition to Kaganovich's guiding hand. While these goals may seem difficult to achieve, they are necessary if the Soviet Union is ever to be restored."
 
@@ -783,7 +783,7 @@
 
  ### Events ###
  ISH.1.t:0 "스탈린의 유령"
- ISH.1.d:0 "레닌-스탈린의 공산당 만세! 라자르 카가노비치 서시베리아 공산당 총서기동무 만세! 러시아의 인민, 인민의 염원, 그리고 우리를 지키는 붉은군대 만세!\n\n혁명을 배반하고 러시아를 모두 폐허로 만들어버릴 옴스크에 죽음을! 그들을 이끌며 우리의 한 때 영광스러웠던 국가를 어둠에 빠뜨리려 하는 미친 카르비셰프에 죽음을! 우리의 영광스러운 군대와 우리 국가를 파괴시킨다고 위협했고, 위협하고 있는 붉은군대의 반역자 스베들롭스크에 죽음을!And death to the treacherous 'Field Marshal' Rokossovsky who leads this revolt against the glory of Comrade Kaganovich!\n\nWhen the traitor Bukharin assigned Comrade Kaganovich to Western Siberia, he did not realize that he would be setting the path for his own demise. When he showed his true colors and failed to stop the hated German scum from destroying our beautiful nation, Comrade Kaganovich led a glorious civil war against Bukharin in the name of his former comrade, Josef Stalin. While the Union fell, Kaganovich never ended his cause, and formed the great People's Republic of Western Siberia.\n\nTime did not prove our ally however, as the traitors in Omsk and Sverdlovsk betrayed the revolution and launched a surprise attack on the capital of Tyumen. While we bravely held out and stopped these attacks, the People's Republic now lies dead. With the German bombings still pummeling what little we have to dust, this situation has now lasted for over a year. Soon, however, we will find a way to bring justice to these traitors, and restore the Union for the glory of Comrade Kaganovich! And Comrade Stalin! And Comrade Lenin! For the people! Urah!"
+ ISH.1.d:0 "레닌과 스탈린의 공산당 만세! 라자리 카가노비치 서시베리아 공산당 총서기동무 만세! 러시아의 인민, 인민의 염원, 그리고 우리 모두를 지키는 붉은군대 만세!\n\n혁명을 배반하고 러시아를 모두 폐허로 만들어버릴 옴스크에 죽음을! 그들을 이끌며 우리의 한 때 영광스러웠던 국가를 어둠에 빠뜨리려 하는 미친 카르비셰프에 죽음을! 우리의 영광스러운 군대와 우리 국가를 파괴시킨다고 위협했고, 위협하고 있는 붉은군대의 반역자 스베들롭스크에 죽음을! 그리고 카가노비치 동지의 영광에 대항하여 이 반란을 이끌고있는 기만자, '야전원수' 로코솝스키에게 죽음을!\n\n반역자 부하린이 카가노비치 동지를 서시베리아로 유배보냈을때, 그는 자신이 스스로 죽음을 맞이할 길을 마련하고 있다는 사실을 깨닫지 못했다. 부하린이 밑천을 드러내고, 독일의 증오스러운 쓰레기들이 우리의 아름다운 조국을 파괴하는 것을 막지 못하자, 카가노비치 동지는 이오시프 스탈린의 이름으로 부하린에 대항한 영광스러운 내전을 이끌었다. 연방이 함락되었을때, 카가노비치는 대의 아래 위대한 서시베리아 인민 공화국이 건국되었음을 선포했다.\n\n그러나 옴스크와 스베르들롭스크의 반역자들이 우리의 수도, 튜멘을 기습함으로서 시간은 온전히 우리의 편이 아니라는게 드러났다. 우리의 군대가 용맹하게 이 공격을 저지하는 동안, 인민 공화국은 죽은채 놓여졌다. 독일의 폭격으로 우리가 먼지조차 털지 못하는동안, 이 상황은 1년 넘게 계속되고 있다. 그러나 우리는 곧 반역자들에게 정의를 실현할 방법을 찾고, 레닌 동지, 스탈린 동지, 카가노비치 동지를 위한 연방을 복원할 것이다! 인민을 위하여! 우라! "
  ISH.1.a:0 "우라!"
  
  ISH.2.t:0 "동대서 이야기"
@@ -791,7 +791,7 @@
  ISH.2.a:0 "그러나 트로츠키에게는 무슨 일이 있었지!?"
 
  ISH.3.t:0 "우리가 짊어지는 짐"
- ISH.3.d:0 "Comrade! There is no denying that things are hard. The Soviet Union was great, but treason, fascism, and revisionism have whittled it down to a husk of its former self. Nevertheless, we are the true successors, untainted by Bukharinism or any other deviation from the path of Marx, Lenin, and Stalin. The traitors can slander us, subvert us, bomb us, and murder us. They cannot murder the righteous spirit of the working class.\n\nComrade! Be reassured by the fact that the Communist Party has made many sacrifices in your name. Chairman Kaganovich works day and night striving to protect you from Naziism and warlordism. The Red Army, stalwart as ever, stands vigilant against the bandits who would harm you. The finest government in Russia makes the hardest decisions so that you can live without fear.\n\nComrade! If you feel discouraged, remember this: all of our hardships, all of our enemies have carved us into a point sharper than a bayonet. As we pierce through our adversaries, ask yourself a vital question. How can you serve?"
+ ISH.3.d:0 "동지들! 상황이 어렵다는 것을 부인할 수 없게 되었소. 소비에트 연방은 위대했지만 반역자와 파시즘, 그리고 수정주의는 그것을 혁명 이전의 술에 절어있던 껍데기 뿐으로 되돌려놓았소. 그럼에도 불구하고, 우리는 부하린주의를 비롯한 마르크스, 레닌, 스탈린의 길에서 벗어난 그 어떤 일탈에도 속하지않는 진정한 후계자들이오. 반역자들은 우리를 비방하고, 우리를 전복시키고, 우리를 폭격하고, 우리를 죽일 수 있지만, 그들은 노동계급의 의로운 정신을 죽일 수 없소.\n\n동지들! 당이 여러분의 이름 하에 많은 희생을 치렀다는 사실에 안심하시오. 카가노비치 총서기동지는 밤낮으로 나치즘와 군벌주의로부터 여러분을 보호하기 위해 노력하고있소. 언제나 건장한 붉은 군대는 여러분을 해할 도적들을 경계하고 있소. 러시아에서 가장 훌륭한 정부는 당신이 두려움 없이 살 수 있도록 가장 어려운 결정을 내리고 있소.\n\n동지들! 만약 여러분이 낙담에 빠진다면, 이것을 기억하시오. 우리의 모든 고난은, 우리의 모든 적들은 우리를 총검보다 더 날카로운 것으로 조각했다는 것을. 우리가 우리의 적들을 꿰뚫을 때, 스스로에게 중요한 질문을 던지시오. 어떻게 조국을 섬길 것인가?"
  ISH.3.a:0 "공산당의 대의에 내 일신과 영혼을 바침으로써!"
 
  ISH.4.t:0 "먼 곳의 벙커"
